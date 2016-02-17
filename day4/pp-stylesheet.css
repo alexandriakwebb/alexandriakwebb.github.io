@@ -1,0 +1,71 @@
+<style>
+html {
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+body { 
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-size: 74%;
+    font-family: "myriad-pro", helvetica, arial, sans-serif;
+}
+
+ul, li {
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    border: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.clear {
+    clear: both;
+    height: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#nav {
+	padding: 20px;
+	background-color: #BEDB39;
+}
+
+#nav ul {
+ 	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#nav li {
+	display: inline;
+	margin: 50px;
+}
+
+#nav a {
+	font-size: 18px;
+	font-family: Garmond;
+	text-decoration: none;
+}
+
+/* unvisited link */
+#nav a:link {
+    color: #1F8A70;
+}
+
+/* visited link */
+#nav a:visited {
+    color: #004358;
+}
+
+/* mouse over link */
+#nav a:hover {
+    color: #FD7400 ;
+}
+
+</style>
